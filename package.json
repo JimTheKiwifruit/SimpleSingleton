@@ -1,0 +1,12 @@
+{
+    "name": "com.jimthekiwifruit.simplesingleton",
+    "version": "1.0.0",
+    "displayName": "Simple Singleton",
+    "description": "A very simple singleton implementation.",
+    "unity": "2017.1",
+    "author": {
+        "name": "James Penman",
+        "email": "James.Pen@live.com",
+        "url": "http://www.jamespenman.ninja"
+    }
+}
