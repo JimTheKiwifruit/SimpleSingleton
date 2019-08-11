@@ -9,7 +9,7 @@ In your Unity project open `Packages/manifest.json` and add `"com.jimthekiwifrui
 ```json
 {
   "dependencies": {
-    "com.jimthekiwifruit.simplesingleton": "https://github.com/JimTheKiwifruit/SimpleSingleton",
+    "com.jimthekiwifruit.simplesingleton": "https://github.com/JimTheKiwifruit/SimpleSingleton.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.rider": "1.0.8",
