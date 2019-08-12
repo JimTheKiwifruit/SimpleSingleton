@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace JimTheKiwifruit.Singleton {
+namespace JimTheKiwifruit {
 
     public abstract class Singleton<T> : MonoBehaviour where T : MonoBehaviour {
 
